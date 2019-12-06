@@ -1,0 +1,30 @@
+[
+	{
+		"nama": "Mohamad Irfan Nurfansyah",
+		"umur": 22,
+		"nrp" : "143040108",
+		"lulus": true,
+		"hobby": [
+			"coding",
+			"reading book"
+		],
+		"pembimbing" : {
+			"pembimbing1": "Sali Alas Majapahit",
+			"pembimbing2": "Asep Somantri"
+		}
+	},
+	{
+		"nama": "Mohamad Irfan Nurfansyah",
+		"umur": 22,
+		"nrp" : "143040108",
+		"lulus": true,
+		"hobby": [
+			"coding",
+			"reading book"
+		],
+		"pembimbing" : {
+			"pembimbing1": "Sali Alas Majapahit",
+			"pembimbing2": "Asep Somantri"
+		}
+	}
+]
